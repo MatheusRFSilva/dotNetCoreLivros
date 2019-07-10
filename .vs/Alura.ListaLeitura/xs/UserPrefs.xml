@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{571AB40F-6426-4983-8DE6-BD0037878BDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Alura.ListaLeitura.App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alura.ListaLeitura" expanded="True">
+            <Node name="Alura.ListaLeitura.App" expanded="True">
+              <Node name="Logica" expanded="True" />
+              <Node name="Mvc" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cadastro" expanded="True">
+                  <Node name="formulario.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

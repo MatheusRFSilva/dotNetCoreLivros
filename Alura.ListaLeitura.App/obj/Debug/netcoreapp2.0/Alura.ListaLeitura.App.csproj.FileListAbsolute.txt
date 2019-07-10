@@ -1,11 +1,23 @@
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csprojAssemblyReference.cache
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
-C:\Users\Matheus\Documents\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.deps.json
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.runtimeconfig.json
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.runtimeconfig.dev.json
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.dll
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.pdb
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.csprojAssemblyReference.cache
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.AssemblyInfo.cs
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.dll
+/Users/matheus/Downloads/Alura.ListaLeitura 2/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.pdb
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.deps.json
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.runtimeconfig.json
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.runtimeconfig.dev.json
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.dll
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Alura.ListaLeitura.App.pdb
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.AssemblyInfo.cs
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.dll
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.pdb
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/obj/Debug/netcoreapp2.0/Alura.ListaLeitura.App.csprojAssemblyReference.cache
+/Users/matheus/Documents/net/dotNetCoreLivros/Alura.ListaLeitura.App/bin/Debug/netcoreapp2.0/Views/Cadastro/formulario.cshtml
